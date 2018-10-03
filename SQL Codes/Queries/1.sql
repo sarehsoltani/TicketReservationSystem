@@ -1,0 +1,1 @@
+SELECT firstName, lastName, timestamp FROM registered_customer;
