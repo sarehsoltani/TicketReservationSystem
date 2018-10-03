@@ -178,7 +178,4 @@ INSERT INTO flight_company VALUES (2 , 'Garuda Indonesia', CURRENT_TIMESTAMP);
 INSERT INTO flight_company VALUES (1 , 'Regional Express', CURRENT_TIMESTAMP);
 INSERT INTO flight_company VALUES (5 , 'Regional Express', CURRENT_TIMESTAMP);
 INSERT INTO flight_company VALUES (7 , 'Regional Express', CURRENT_TIMESTAMP);
-
-
-
 INSERT INTO flight_company VALUES (3 , 'Regional Express', CURRENT_TIMESTAMP);
